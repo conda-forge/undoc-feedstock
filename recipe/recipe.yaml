@@ -1,5 +1,5 @@
 context:
-  version: "0.20.0"
+  version: "0.21.0"
 
 package:
   name: undoc
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/iyulab/undoc/archive/refs/tags/v${{ version }}.tar.gz
-  sha256: b1bac5b545aa529850060440b8908d7ca5c13332d3ce7290686619a520cb5e24
+  sha256: 5ff2d12c0da7b4925a669aacd681eda904719b913b144efb6a7118c0d55d816c
 
 build:
   number: 0
